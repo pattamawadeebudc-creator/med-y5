@@ -5,7 +5,7 @@
 const CONFIG = {
     // 🌐 URL ของ Google Apps Script (ตัวใหม่ที่รวมโค้ดแล้ว)
     // สามารถใช้ลิงก์เดียวกันได้เลย เพราะระบบ Backend แยกส่วนให้แล้ว
-    WEB_APP_API: "https://script.google.com/macros/s/AKfycbwWma0Oqfn8ysXAZWgDg0cCFH-o7TdxOLt8bxgVKrSr0RhDu4B1sCwxScGCboLjabk/exec",
+    WEB_APP_API: "https://script.google.com/macros/s/AKfycbxqlLQMEaLpUxAA_96AN9fq7pe0TEbFSXWoYx5OuhGe0Rmsoy-M_suVChyS6nEYEaM/exec",
 
     // 📱 LIFF IDs
     LIFF_ID_CHECKIN: "2009669858-P4wPNDsG",
